@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lofi-app/static/css/main.3db8be05.css",
+    "main.css": "/lofi-app/static/css/main.e105fa4a.css",
     "main.js": "/lofi-app/static/js/main.5864c27d.js",
     "static/js/787.a7d96dab.chunk.js": "/lofi-app/static/js/787.a7d96dab.chunk.js",
     "index.html": "/lofi-app/index.html",
-    "main.3db8be05.css.map": "/lofi-app/static/css/main.3db8be05.css.map",
+    "main.e105fa4a.css.map": "/lofi-app/static/css/main.e105fa4a.css.map",
     "main.5864c27d.js.map": "/lofi-app/static/js/main.5864c27d.js.map",
     "787.a7d96dab.chunk.js.map": "/lofi-app/static/js/787.a7d96dab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3db8be05.css",
+    "static/css/main.e105fa4a.css",
     "static/js/main.5864c27d.js"
   ]
 }
